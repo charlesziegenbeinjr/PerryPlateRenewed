@@ -3,7 +3,6 @@
     <v-card id="address-card" flat>
         <v-card-text id="address-card-text">89 Main St. Andover, MA | <a href="tel:">(978) 409-1814</a></v-card-text>
     </v-card>
-
     <MainPage :welcome=propA :year=propB />
   </div>
 </template>
